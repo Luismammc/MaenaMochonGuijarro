@@ -1,0 +1,65 @@
+body{
+    background-image: url(https://media.istockphoto.com/photos/oia-town-on-santorini-island-greece-traditional-and-famous-houses-and-picture-id1139749298?k=20&m=1139749298&s=612x612&w=0&h=g1RocQ-xsO7EeMG_gjhg9X_NoxeaZWwQ1rPqYFTOszY=);
+    background-repeat: no-repeat;
+    background-size: 95em;
+ 
+}
+#titulo{
+    font-size: 48px;
+    text-align: center;
+    font-style: normal;
+    color: #000000;
+    border-left:solid rgb(2, 2, 2) 0.1em;
+    border-top:solid rgb(0, 0, 0) 0.1em;
+    border-right:solid rgb(7, 7, 7) 0.1em;
+    border-bottom:solid rgb(0, 0, 0) 0.1em;
+   
+}
+#texto{
+    font-size: 28px;
+    text-align: center;
+    font-style: inherit;
+    color: #a547f3;
+}
+#lista{
+    font-size: 25px;
+    text-align: left;
+    font-style: initial;
+    color: #8d5ff7;
+    margin-left: 5em;
+    margin-right: 19em;
+}
+#link{
+    font-size: 25px;
+    text-align: center;
+    font-style: inherit;
+    color: rgb(238, 121, 213);
+}
+#foto{
+    width: 41%;
+    margin-top: 10px;
+    margin-left: 5em;
+}
+#foto2{
+    width: 41%;
+    margin-top: 10px;
+    margin-left: 5em;
+}
+#borde{
+    border-left:solid rgb(0, 0, 0) 0.001em;
+    border-top:solid rgb(0, 0, 0) 0.001em;
+    border-right:solid rgb(0, 0, 0) 0.001em;
+    border-bottom:solid rgb(0, 0, 0) 0.001em;
+    margin-right: 15em;
+}
+#tabla, tr, td{
+    font-style: oblique;
+    color: #ffffff;
+    border-left:solid rgb(255, 255, 255) 0.1em;
+    border-top:solid rgb(255, 255, 255) 0.1em;
+    border-right:solid rgb(255, 255, 255) 0.1em;
+    border-bottom:solid rgb(255, 255, 255) 0.1em;
+    border-collapse: collapse;
+    text-align: center;
+    margin-left: 31em;
+    background-color:rgb(243, 115, 164);
